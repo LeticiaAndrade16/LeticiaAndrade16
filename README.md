@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Atualmente estou trabalhando em aperfeiçoar minhas habilidades em análise de dados, SQL, Python e Power BI.<br>🤝 Procuro ajuda com visualização de dados, machine learning e computação em nuvem.<br>🌱 Atualmente estou aprendendo análise de Dados, SQL, Python, Power BI e fundamentos de cloud.<br>💬 Pergunte-me sobre análise de dados, consultas em SQL, criação de dashboards no Power BI ou sobre minha transição para a área de dados.
+🌱 Atualmente estou aprendendo análise de Dados, SQL, Python, Power BI e fundamentos de cloud.<br>🤝 Procuro ajuda com visualização de dados, machine learning e computação em nuvem.<br>💬 Pergunte-me sobre análise de dados, consultas em SQL, criação de dashboards no Power BI ou sobre minha transição para a área de dados.
 
 
 ## 🌐 Socials:
