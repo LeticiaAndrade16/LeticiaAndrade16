@@ -1,12 +1,12 @@
 <h1 align="center">Olá, eu sou a Leticia 👋</h1>
 
 <p align="center">
-  🎓 Estudante de Ciência da Computação · 💻 Desenvolvimento Back-end e Análise de Dados
+  🎓 Graduada em Ciência da Computação · 💻 Desenvolvimento Back-end e Análise de Dados
 </p>
 
 ## 💫 Sobre mim
 
-Estudante de Ciência da Computação com foco em **desenvolvimento back-end** e **análise de dados**. Tenho experiência prática com **Python, SQL e PostgreSQL**, construindo APIs e sistemas orientados a dados. Estou em busca de oportunidades como desenvolvedora Python júnior.
+Graduada em Ciência da Computação com foco em **desenvolvimento back-end** e **análise de dados**. Tenho experiência prática com **Python, SQL e PostgreSQL**, construindo APIs e sistemas orientados a dados. Estou em busca de oportunidades como desenvolvedora Python júnior.
 
 ## 🚀 Projetos em destaque
 
